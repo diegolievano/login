@@ -1,0 +1,39 @@
+body{
+    background: url(../img/2.jpg);
+    
+}
+.contenedorP{
+    width: 100%;
+    height: auto;
+}
+.contenedorLogin{
+    background: rgb(0,0,0,0.3);
+    width: 400px;
+    height: 350px;
+    margin-left: 33%;
+    margin-top: 10%;
+    
+}
+.imagenLogin{
+    margin-left: 33%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.inputgroup{
+    width: 100%;
+    border-radius: none;
+    margin-bottom: 20px;
+    margin-left: 10px;
+   
+ 
+}
+.boton{
+    cursor: pointer;
+    background: #4BD7F9;
+    border: none;
+    width: 90px;
+    height: 30px;;
+    color:black;
+    border-radius: 2px;
+    margin-left: 70%;
+}
